@@ -1,1 +1,1 @@
-added a gitignore file
+edited gitignore file
