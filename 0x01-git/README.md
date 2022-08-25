@@ -1,1 +1,1 @@
-changes made to school
+added a gitignore file
